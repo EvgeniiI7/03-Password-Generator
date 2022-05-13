@@ -1,8 +1,6 @@
-# 03-challenge-JavaScript# 03-challenge-JavaScript
 
-## Description
 
-PASSWORD GENERATOR
+# PASSWORD GENERATOR
 
 1.Length of the password between 8 to 128 characters.
 

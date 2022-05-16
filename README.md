@@ -23,5 +23,4 @@ Website
 
 https://evgeniii7.github.io/03-challenge-JavaScript/
 
-
 ![ScreenShot](assets/images/ScreenShot.png)

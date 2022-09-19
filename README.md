@@ -1,6 +1,6 @@
 
 
-# PASSWORD GENERATOR
+# Password Generator
 
 1.Length of the password between 8 to 128 characters.
 
